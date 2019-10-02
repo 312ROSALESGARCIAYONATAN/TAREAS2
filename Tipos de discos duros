@@ -1,0 +1,24 @@
+
+Tipos de Discos Duros
+Los discos duros SATA son un tipo concreto de disco duro interno. Consiste en una interfaz de transferencia de datos entre discos duros y la placa base que permite una mayor velocidad, aprovechamiento, capacidad para conectar unidades a la vez y mayor longitud de cable de transmisión de datos que el anterior P-ATA.
+Tipos de discos duros SATA
+Los diferentes tipos de discos duros SATA son los siguientes:
+SATA 1. Tiene una velocidad de hasta 150 MB/s. Su frecuencia es de 1500 MHz. También son llamados SATA 1,5 Gb.
+SATA 2. Tiene una velocidad de hasta 300 MB/s. Su frecuencia es de 3000 MHz. También son llamados SATA 3 Gb.
+SATA 3. Tiene una velocidad de hasta 600 MB/s. Su frecuencia es de 6000 MHz. También son llamados SATA 6 Gb.
+Todos ellos tienen 1 bit/clock y 8 bits/byte.
+Es complicado encontrar discos SATA 1. Lo recomendable, de todas formas, es optar por SATA 2 y SATA 3. Los sata SATA suelen ser más que suficiente en la mayoría de casos.
+eSATA:
+ eSATAp utiliza el propio cable para recibir la alimentación eléctrica, por lo que se utiliza para conectar discos duros externos a la placa base del ordenador. Es tan fácil usarlos como conectar el disco duro al equipo informático (como si de un USB se tratara) siempre que éste tenga un puerto eSATA. Su velocidad de transferencia va desde los 300 MB hasta los 750 MB por segundo.
+USB El interfaz USB ofrece la gran ventaja de utilizar un único puerto para conectar la mayor parte de dispositivos externos. La versión 3.0 ya es capaz de transferir hasta 625 MB/segundo, 10 veces más que la versión USB 2.0. Es el estándar más utilizado en los discos duros externos por su versatilidad.
+Conviene recordar de todas formas que la mayoría de los discos duros no pueden aprovechar estas tasas de transferencia cercanas a los 600 MB/segundo. Si por ejemplo compras un disco duro externo USB 3.0 y lo conectas a un puerto USB 3.0, la velocidad de transferencia de datos ya no estará limitada por el USB sino por las propias características del disco.
+También es importante saber que la diferencia entre la velocidad de transferencia entre un disco duro magnético y un disco de estado sólido es claramente favorable al último, debido a que no existen partes mecánicas que repercutan en la transmisión de la información
+El disco duro SAS es un dispositivo electromecánico que se encarga de almacenar y leer grandes volúmenes de información a altas velocidades por medio de pequeños electroimanes (también llamadas cabezas de lectura y escritura), sobre un disco recubierto de limadura magnética. Los discos vienen montados sobre un eje que gira a altas velocidades. El interior del dispositivo está totalmente libre de aire y de polvo, para evitar choques entre partículas y por ende, pérdida de datos, el disco permanece girando todo el tiempo que se encuentra encendido. Será el sucesor del estándar de discos duros con interfaz paralela SCSI.
+RPM SAS: Significa “Revolutions per Minute” ó vueltas por minuto. Este valor determina la velocidad a la que los discos internos giran cada minuto. Su unidad de medida es: revoluciones por minuto (RPM). Este dato puede ser 7,200 RPM, 10,000 RPM hasta 15,000 RPM.
+Capacidades de almacenamiento SAS: Es el total de Bytes ó símbolos que es capaz de almacenar un disco duro. Su unidad de medida es el Byte, pero actualmente se utilizan medidas como el GigaByte (GB) y el TeraByte (TB). Para discos duros SAS este dato puede estar entre 72 GigaBytes (GB) hasta 2 TeraBytes (TB).
+Velocidad de transferencia: Indica la velocidad de transferencia de datos máxima, expresada en Gb/s (Gigabits/segundo). Un disco duro SAS tiene dentro de sus características lo siguiente: Marca HP®, 600 GB, SFF 2.5 Inch,  Hot Plug*, 6G*, SAS, 10K RPM.     * Este dato indica la velocidad de transferencia de datos, en este caso 6 Gigabits/segundo
+Discos duros SSD
+Los tiempos de acceso a los Discos Duro SSD son hasta diez veces más rápidos que los discos duros convencionales, tienen menos desgaste debido a que los discos SSD no tienen partes mecánicas, son sólidos. Los discos duros SSD también desprenden menos calor al alcanzar menos temperatura y no hacen absolutamente ningún ruido.
+Cuando un servidor lleva discos SSD tiene un acceso mucho más rápido a los datos, por lo que, si el servidor es web, los tiempos de respuesta mejoraran considerablemente en las consultas a la base de datos que no estén cargadas en la memoria RAM.
+El siguiente video expresa de manera gráfica la comparación entre estos dos dispositivos de almacenamiento, en este caso, comparan las memorias SSD de Samsung.
+
